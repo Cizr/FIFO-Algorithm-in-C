@@ -25,18 +25,18 @@ Number of page faults
 3. Enter the page numbers :0, 0, 1, 0, 3, 1, 2, 2, 4, 4, 3, 0
 4. Enter the number of frames: 2
 5. ref string         page frames
- 0               0       -1
- 0
- 1               0       1
- 0
- 3               3       1
- 1
- 2               3       2
- 2
- 4               4       2
- 4
- 3               4       3
- 0               0       3
+. 0               0       -1
+. 0
+. 1               0       1
+. 0
+. 3               3       1
+. 1
+. 2               3       2
+. 2
+. 4               4       2
+. 4
+. 3               4       3
+. 0               0       3
 6. Total Page Fault is 7
 
 
