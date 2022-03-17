@@ -10,11 +10,7 @@ This is the simplest page replacement algorithm. In this algorithm,**the operati
 3. Input size of frames. (number of frames,in this code its maxed on 10)
 
 # Course of action :
-1. Start the process
-2. Note:
-When frame array is full and when new value come, we need to see if already present in frame array or not. Hit counter will increment here.
-
-If not in array z counter will increment and will be equal to frame size. Which will mean it’s new value and we need to enter that value in array and remove the value using FIFO concept. Page Fault counter will increment here.
+When frame array is full and when new value come we need to see if already present in frame array or not,if not the new value and we need to enter that value in array and remove the value using FIFO concept. Page Fault counter will increment here.
 
 # Output :
 Number of pages
