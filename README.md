@@ -13,10 +13,10 @@ This is the simplest page replacement algorithm. In this algorithm,**the operati
 When frame array is full and when new value come we need to see if already present in frame array or not,if not the new value and we need to enter that value in array and remove the value using FIFO concept. Page Fault counter will increment here.
 
 # Output :
-Number of pages
-Value of pages  
-The frames
-Number of page faults
+1. Number of pages
+2. Value of pages  
+3. The frames
+4. Number of page faults
 
 # Example :
 
